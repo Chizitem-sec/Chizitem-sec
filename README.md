@@ -16,8 +16,8 @@ My background in computer engineering sparked a deep passion for cybersecurity. 
 
 
 ## ⚠️ Vulnerability Management Projects
-- Exploiting WEP Network
-- 
+-  **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
+
 
 ## 🚨 Threat Hunting and Security Operations
 - SOC Automation Project
