@@ -16,7 +16,7 @@ My background in computer engineering sparked a deep passion for cybersecurity. 
 
 
 ## ⚠️ Vulnerability Management Projects
--  **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
+-  **[Vulnerability Management Program Implementation](https://github.com/Chizitem-sec/Vulnerability-Management-Program)**
 
 
 ## 🚨 Threat Hunting and Security Operations
