@@ -29,7 +29,7 @@ My background in computer engineering sparked a deep passion for cybersecurity. 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Implementing a Vulnerability Management Program          | <a href="https://google.com">Detection Lab</a>|
+| Implementing a Vulnerability Management Program          | <a href="https://github.com/Chizitem-sec/Vulnerability-Management-Program">Vul Mgmt Program</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
