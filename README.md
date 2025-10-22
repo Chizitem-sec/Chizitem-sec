@@ -20,7 +20,7 @@ My background in computer engineering sparked a deep passion for cybersecurity. 
 
 
 ## 🚨 Threat Hunting and Security Operations
-- Under Construction
+- Under Construction 🏗️
 
   
 
